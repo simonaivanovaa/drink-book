@@ -37,7 +37,7 @@ You can **add** a user to a restaurant. You can also **remove** a user from a re
 
 ------------------------------
 \
-A user can enter: 
+A user can enter when: 
 
 • They like the music they play at the disco.
 \
